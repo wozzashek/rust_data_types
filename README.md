@@ -5,7 +5,7 @@ Tuples like arrays, but each element can be of a different type
 
 Works more like a javascript array. This is fixed length so cannot grow or shrink (those are vectors)
 
-Can be accessed like:
+**Example**
 ```rust
 let tup = (500, 6.4,1); //int, float, int
 
